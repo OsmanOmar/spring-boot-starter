@@ -1,0 +1,28 @@
+Meowu/we-chat: 仿微信web版。
+https://github.com/Meowu/we-chat
+
+zhaohaodang/vue-WeChat: 一款基于Vue2.0高仿微信App的单页应用
+https://github.com/zhaohaodang/vue-WeChat
+
+gittbin/wx_chat: 仿微信web界面简单聊天
+https://github.com/gittbin/wx_chat
+
+AwakenCN/InChat: 一个轻量级、高效率的支持多端（应用与硬件Iot）的可分布式、异步网络应用通讯框架
+https://github.com/AwakenCN/InChat
+
+bailichen/vue-weixin: Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
+https://github.com/bailichen/vue-weixin
+
+20+ Best Free Bootstrap Chat Templates
+https://www.digitaldesignjournal.com/best-free-bootstrap-chat-templates/
+
+
+
+
+⭐
+han960619/Vue-chat: 仿wechatPC版
+https://github.com/han960619/Vue-chat
+
+⭐
+dadiyang/vue-wechat: 为接入微信公众号让客服与客户通过公众号直接对话而开发并开源的高仿微信网页版的IM前端项目
+https://github.com/dadiyang/vue-wechat

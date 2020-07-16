@@ -1,0 +1,26 @@
+使用itext和freemarker来根据Html模板生成PDF文件，加水印、印章 - 技术 - 李锋镝的博客
+https://www.lifengdi.com/archives/article/tech/861
+lifengdi/generate-file: 文件生成
+https://github.com/lifengdi/generate-file
+
+分享个PDF文件签名盖章 Demo-CSDN论坛
+https://bbs.csdn.net/topics/392432877
+
+在 Adobe Acrobat DC 中向 PDF 添加图章
+https://helpx.adobe.com/cn/acrobat/using/adding-stamp-pdf.html
+
+如何给PDF文件盖章-WPS+博客
+https://plus.wps.cn/blog/p61636.html
+
+
+⭐
+isyangyuhao/pdf-seal: 在线加载PDF文档,并实现印章效果
+https://github.com/isyangyuhao/pdf-seal
+
+
+FranckFreiburger/vue-pdf: vue.js pdf viewer
+https://github.com/FranckFreiburger/vue-pdf#readme
+
+
+关于前端PDF显示和盖章（vue）_Harrietjia的博客-CSDN博客_vue pdf文件盖电子印章
+https://blog.csdn.net/qq_38188485/article/details/104452542
