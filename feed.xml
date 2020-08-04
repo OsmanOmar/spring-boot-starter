@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Element-UI Release notes" title="Element-UI Release notes" type="rss" 
+            xmlUrl="https://github.com/ElemeFE/element/releases.atom" htmlUrl="https://github.com/ElemeFE/element/releases"/>
+      <outline text="ant-design-vue Release notes" title="ant-design-vue Release notes" type="rss" 
+            xmlUrl="https://github.com/vueComponent/ant-design-vue/releases.atom" htmlUrl="https://github.com/vueComponent/ant-design-vue/releases"/>
+      <outline text="Deno Weekly" title="Deno Weekly" type="rss" 
+            xmlUrl="https://denoweekly.com/rss/" htmlUrl="https://denoweekly.com/"/>
+      <outline text="Node Weekly" title="Node Weekly" type="rss" 
+            xmlUrl="https://nodeweekly.com/rss/" htmlUrl="https://nodeweekly.com/"/>
+      <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" 
+            xmlUrl="https://javascriptweekly.com/rss/" htmlUrl="https://javascriptweekly.com/"/>
+      <outline text="vue-element-admin Release notes" title="vue-element-admin Release notes" type="rss" 
+            xmlUrl="https://github.com/PanJiaChen/vue-element-admin/releases.atom" htmlUrl="https://github.com/PanJiaChen/vue-element-admin/releases"/>
+      <outline text="nginx news" title="nginx news" type="rss" 
+            xmlUrl="http://nginx.org/index.rss" htmlUrl="http://nginx.org"/>
+      <outline text="Windows Command Line" title="Windows Command Line" type="rss" 
+            xmlUrl="https://devblogs.microsoft.com/commandline/feed/" htmlUrl="https://devblogs.microsoft.com/commandline"/>
+      <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" 
+            xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"/>
+      <outline text="google web dev updates" title="google web dev updates" type="rss" 
+            xmlUrl="https://developers.google.cn/web/updates/rss.xml" htmlUrl="https://developers.google.com/web/updates/?utm_source=feed&amp;utm_medium=feed&amp;utm_campaign=updates_feed"/>
+      <outline text="HTTP 203" title="HTTP 203" type="rss" 
+            xmlUrl="http://http203.googledevelopers.libsynpro.com/rss" htmlUrl="https://developers.google.com/web/shows/http203/podcast/"/>
+      <outline text="The CSS Podcast" title="The CSS Podcast" type="rss" 
+            xmlUrl="https://thecsspodcast.libsyn.com/rss" htmlUrl="https://thecsspodcast.libsyn.com"/>
+      <outline text="Mozilla Hacks" title="Mozilla Hacks – the Web developer blog" type="rss" 
+            xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
+      <outline text="Web Platform News" title="Web Platform News" type="rss" 
+            xmlUrl="https://webplatform.news/feed.xml" htmlUrl="https://webplatform.news/"/>
+      <outline text="React.js Blog" title="React" type="rss" 
+            xmlUrl="https://reactjs.org/feed.xml" htmlUrl="https://reactjs.org"/>
+      <outline text="Bootstrap Blog" title="Bootstrap Blog" type="rss" 
+            xmlUrl="https://blog.getbootstrap.com/feed.xml" htmlUrl="https://blog.getbootstrap.com/"/>
+      <outline text="Sass Blog" title="Sass Blog" type="rss" 
+            xmlUrl="https://sass-lang.com/feed.xml"/>
+      <outline text="Microsoft Edge Blog" title="Microsoft Edge Blog" type="rss" 
+            xmlUrl="https://blogs.windows.com/msedgedev/feed/" htmlUrl="https://blogs.windows.com/msedgedev"/>
+      <outline text="WebKit Blog" title="WebKit Blog" type="rss" 
+            xmlUrl="https://webkit.org/feed/" htmlUrl="https://webkit.org"/>
+      <outline text="WordPress News" title="WordPress News" type="rss" 
+            xmlUrl="https://wordpress.org/news/feed/" htmlUrl="https://wordpress.org/news"/>
+      <outline text="Pine Wu&#39;s Blog" title="Pine Wu&#39;s Blog" type="rss" 
+            xmlUrl="https://blog.matsu.io/feed.xml" htmlUrl="http://blog.matsu.io"/>
+      <outline text="Zhangxinxu&#39;s Blog" title="Zhangxinxu&#39;s Blog" type="rss" 
+            xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" htmlUrl="https://www.zhangxinxu.com/wordpress"/>
+      <outline text="Baidu FEX" title="Baidu FEX" type="rss" 
+            xmlUrl="http://fex.baidu.com/feed.xml" htmlUrl="http://fex.baidu.com"/>
+      <outline text="Tencent CDC" title="Tencent CDC" type="rss" 
+            xmlUrl="https://cdc.tencent.com/feed/rss/" htmlUrl="https://cdc.tencent.com"/>
+      <outline text="Jake Archibald&#39;s blog" title="Jake Archibald&#39;s blog" type="rss" 
+            xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/"/>
+      <outline text="Surma&#39;s blog" title="Surma&#39;s blog" type="rss" 
+            xmlUrl="https://dassur.ma/index.xml"/>
+      <outline text="TypeScript blog" title="TypeScript blog" type="rss" 
+            xmlUrl="https://devblogs.microsoft.com/typescript/feed/" htmlUrl="https://devblogs.microsoft.com/typescript"/>
+      <outline text="FFmpeg news" title="FFmpeg news" type="rss" 
+            xmlUrl="https://ffmpeg.org/main.rss" htmlUrl="http://ffmpeg.org"/>
+      <outline text="Chen HuiJing&#39;s blog" title="Chen HuiJing&#39;s blog" type="rss" 
+            xmlUrl="https://chenhuijing.com/feed.xml" htmlUrl="https://chenhuijing.com/"/>
+      <outline text="Sarah Drasner – CSS-Tricks" title="Sarah Drasner – CSS-Tricks" type="rss" 
+            xmlUrl="https://css-tricks.com/author/sdrasner/feed" htmlUrl="https://css-tricks.com"/>
+      <outline text="MariaDB.org blog" title="MariaDB.org blog" type="rss" 
+            xmlUrl="https://mariadb.org/feed/" htmlUrl="https://mariadb.org"/>
+      <outline text="MySQL Blog" title="MySQL Blog" type="rss" 
+            xmlUrl="https://blogs.oracle.com/mysql/compendium/rss" htmlUrl="https://blogs.oracle.com/mysql/compendium/rss"/>
+      <outline text="WPS Office Blog" title="WPS Office Blog" type="rss" 
+            xmlUrl="https://blog.wps.com/rss/" htmlUrl="https://blog.wps.com/"/>
+      <outline text="tailwindcss release notes" title="tailwindcss release notes" type="rss" 
+            xmlUrl="https://github.com/tailwindcss/tailwindcss/releases.atom" htmlUrl="https://github.com/tailwindlabs/tailwindcss/releases"/>
+      <outline text="echarts release notes" title="echarts release notes" type="rss" 
+            xmlUrl="https://github.com/apache/incubator-echarts/releases.atom" htmlUrl="https://github.com/apache/incubator-echarts/releases"/>
+      <outline text="vue-cli Release notes" title="vue-cli Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vue-cli/releases.atom" htmlUrl="https://github.com/vuejs/vue-cli/releases"/>
+      <outline text="vue Release notes" title="vue Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vue/releases.atom" htmlUrl="https://github.com/vuejs/vue/releases"/>
+      <outline text="vue-router Release notes" title="vue-router Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vue-router/releases.atom" htmlUrl="https://github.com/vuejs/vue-router/releases"/>
+      <outline text="vuex Release notes" title="vuex Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vuex/releases.atom" htmlUrl="https://github.com/vuejs/vuex/releases"/>
+      <outline text="vue-next Release notes" title="vue-next Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vue-next/releases.atom" htmlUrl="https://github.com/vuejs/vue-next/releases"/>
+      <outline text="vetur Release notes" title="vetur Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vetur/releases.atom" htmlUrl="https://github.com/vuejs/vetur/releases"/>
+      <outline text="vue-apollo Release notes" title="vue-apollo Release notes" type="rss" 
+            xmlUrl="https://github.com/vuejs/vue-apollo/releases.atom" htmlUrl="https://github.com/vuejs/vue-apollo/releases"/>
+      <outline text="vuetify Release notes" title="vuetify Release notes" type="rss" 
+            xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom" htmlUrl="https://github.com/vuetifyjs/vuetify/releases"/>
+      <outline text="Node.js Blog" title="Node.js Blog" type="rss" 
+            xmlUrl="https://nodejs.org/en/feed/blog.xml" htmlUrl="https://nodejs.org/en/"/>
+      <outline text="IntelliJ IDEA Blog" title="IntelliJ IDEA Blog" type="rss" 
+            xmlUrl="https://blog.jetbrains.com/idea/feed/" htmlUrl="https://blog.jetbrains.com"/>
+      <outline text="git Release notes" title="git Release notes" type="rss" 
+            xmlUrl="https://github.com/git/git/releases.atom" htmlUrl="https://github.com/git/git/releases"/>
+      <outline text="AdoptOpenJDK Blog" title="AdoptOpenJDK Blog" type="rss" 
+            xmlUrl="https://blog.adoptopenjdk.net/rss.xml" htmlUrl="https://blog.adoptopenjdk.net"/>
+      <outline text="curl Release notes" title="curl Release notes" type="rss" 
+            xmlUrl="https://github.com/curl/curl/releases.atom" htmlUrl="https://github.com/curl/curl/releases"/>
+      <outline text="winget-cli Release notes" title="winget-cli Release notes" type="rss" 
+            xmlUrl="https://github.com/microsoft/winget-cli/releases.atom" htmlUrl="https://github.com/microsoft/winget-cli/releases"/>
+      <outline text="Apache Maven" title="Apache Maven" type="rss" 
+            xmlUrl="https://blogs.apache.org/maven/feed/entries/atom" htmlUrl="https://blogs.apache.org/maven/"/>
+      <outline text="Free Download Manager" title="Free Download Manager" type="rss" 
+            xmlUrl="https://www.freedownloadmanager.org/blog/?feed=rss2" htmlUrl="https://www.freedownloadmanager.org/blog"/>
+      <outline text="axios Release notes" title="axios Release notes" type="rss" 
+            xmlUrl="https://github.com/axios/axios/releases.atom" htmlUrl="https://github.com/axios/axios/releases"/>
+      <outline text="redaxios Release notes" title="redaxios Release notes" type="rss" 
+            xmlUrl="https://github.com/developit/redaxios/releases.atom" htmlUrl="https://github.com/developit/redaxios/releases"/>
+      <outline text="mongoose Release notes" title="mongoose Release notes" type="rss" 
+            xmlUrl="https://github.com/Automattic/mongoose/releases.atom" htmlUrl="https://github.com/Automattic/mongoose/releases"/>
+      <outline text="MongoDB Blog" title="MongoDB Blog" type="rss" 
+            xmlUrl="https://www.mongodb.com/blog/rss" htmlUrl="https://www.mongodb.com/blog"/>
+      <outline text="Redis Labs" title="Redis Labs" type="rss" 
+            xmlUrl="https://redislabs.com/feed/" htmlUrl="https://redislabs.com"/>
+      <outline text="Docker Blog" title="Docker Blog" type="rss" 
+            xmlUrl="https://www.docker.com/blog/feed/" htmlUrl="https://www.docker.com/blog"/>
+      <outline text="ubuntu blog" title="ubuntu blog" type="rss" 
+            xmlUrl="https://ubuntu.com/blog/feed" htmlUrl="https://ubuntu.com//blog/feed"/>
+      <outline text="Hibernate Blog" title="Hibernate Blog" type="rss" 
+            xmlUrl="https://in.relation.to/blog.atom" htmlUrl="https://in.relation.to/"/>
+      <outline text="PostgreSQL news" title="PostgreSQL news" type="rss" 
+            xmlUrl="https://www.postgresql.org/news.rss" htmlUrl="https://www.postgresql.org/"/>
+      <outline text="Spring Releases" title="Spring Releases" type="rss" 
+            xmlUrl="https://spring.io/blog/category/releases.atom" htmlUrl="https://spring.io/blog/category/releases"/>
+      <outline text="dbeaver Release notes" title="dbeaver Release notes" type="rss" 
+            xmlUrl="https://github.com/dbeaver/dbeaver/releases.atom" htmlUrl="https://github.com/dbeaver/dbeaver/releases"/>
+      <outline text="HeidiSQL Release notes" title="HeidiSQL Release notes" type="rss" 
+            xmlUrl="https://github.com/HeidiSQL/HeidiSQL/releases.atom" htmlUrl="https://github.com/HeidiSQL/HeidiSQL/releases"/>
+      <outline text="Dart-Code Release notes" title="Dart-Code Release notes" type="rss" 
+            xmlUrl="https://github.com/Dart-Code/Dart-Code/releases.atom" htmlUrl="https://github.com/Dart-Code/Dart-Code/releases"/>
+      <outline text="Visual Studio Blog" title="Visual Studio Blog" type="rss" 
+            xmlUrl="https://devblogs.microsoft.com/visualstudio/feed/" htmlUrl="https://devblogs.microsoft.com/visualstudio"/>
+      <outline text="Recent Commits to ant-design-vue:gh-pages" title="Recent Commits to ant-design-vue:gh-pages" type="rss" 
+            xmlUrl="https://github.com/vueComponent/ant-design-vue/commits/gh-pages.atom" htmlUrl="https://github.com/vueComponent/ant-design-vue/commits/gh-pages"/>
+      <outline text="ant vis G2 Release notes" title="ant vis G2 Release notes" type="rss" 
+            xmlUrl="https://github.com/antvis/G2/releases.atom" htmlUrl="https://github.com/antvis/G2/releases"/>
+      <outline text="Chart.js Release notes" title="Chart.js Release notes" type="rss" 
+            xmlUrl="https://github.com/chartjs/Chart.js/releases.atom"/>
+      <outline text="socket.io-client Release notes" title="socket.io-client Release notes" type="rss" 
+            xmlUrl="https://github.com/socketio/socket.io-client/releases.atom" htmlUrl="https://github.com/socketio/socket.io-client/releases"/>
+      <outline text="socket.io Release notes " title="socket.io Release notes " type="rss" 
+            xmlUrl="https://github.com/socketio/socket.io/releases.atom" htmlUrl="https://github.com/socketio/socket.io/releases"/>
+      <outline text="mariadb-connector-nodejs Release notes" title="mariadb-connector-nodejs Release notes" type="rss" 
+            xmlUrl="https://github.com/mariadb-corporation/mariadb-connector-nodejs/releases.atom" htmlUrl="https://github.com/mariadb-corporation/mariadb-connector-nodejs/releases"/>
+      <outline text="jeecg blog" title="jeecg blog" type="rss" 
+            xmlUrl="https://blog.csdn.net/zhangdaiscott/rss/list" htmlUrl="https://blog.csdn.net/zhangdaiscott"/>
+      <outline text="RSSHub creator&#39;s blog" title="RSSHub creator&#39;s blog" type="rss" 
+            xmlUrl="https://diygod.me/atom.xml"/>
+      <outline text="puppeteer Release notes" title="puppeteer Release notes" type="rss" 
+            xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom" htmlUrl="https://github.com/puppeteer/puppeteer/releases"/>
+      <outline text="dotenv Release notes" title="dotenv Release notes" type="rss" 
+            xmlUrl="https://github.com/motdotla/dotenv/releases.atom" htmlUrl="https://github.com/motdotla/dotenv/releases"/>
+      <outline text="xstate Release notes" title="xstate Release notes" type="rss" 
+            xmlUrl="https://github.com/davidkpiano/xstate/releases.atom" htmlUrl="https://github.com/davidkpiano/xstate/releases"/>
+      <outline text="React Native for Windows + macOS Blog" title="React Native for Windows + macOS Blog" type="rss" 
+            xmlUrl="https://microsoft.github.io/react-native-windows/blog/atom.xml" htmlUrl="https://microsoft.github.io/react-native-windows/blog"/>
+      <outline text="react-native-windows Release notes" title="react-native-windows Release notes" type="rss" 
+            xmlUrl="https://github.com/microsoft/react-native-windows/releases.atom" htmlUrl="https://github.com/microsoft/react-native-windows/releases"/>
+      <outline text="animate.css Release notes" title="animate.css Release notes" type="rss" 
+            xmlUrl="https://github.com/animate-css/animate.css/releases.atom" htmlUrl="https://github.com/animate-css/animate.css/releases"/>
+      <outline text="typeorm Release notes" title="typeorm Release notes" type="rss" 
+            xmlUrl="https://github.com/typeorm/typeorm/releases.atom" htmlUrl="https://github.com/typeorm/typeorm/releases"/>
+      <outline text="bulma Release notes" title="bulma Release notes" type="rss" 
+            xmlUrl="https://github.com/jgthms/bulma/releases.atom" htmlUrl="https://github.com/jgthms/bulma/releases"/>
+      <outline text="normalize.css Release notes" title="normalize.css Release notes" type="rss" 
+            xmlUrl="https://github.com/necolas/normalize.css/releases.atom" htmlUrl="https://github.com/necolas/normalize.css/releases"/>
+      <outline text="restify Release notes" title="restify Release notes" type="rss" 
+            xmlUrl="https://github.com/restify/node-restify/releases.atom" htmlUrl="https://github.com/restify/node-restify/releases"/>
+      <outline text="prettier Release notes " title="prettier Release notes " type="rss" 
+            xmlUrl="https://github.com/prettier/prettier/releases.atom" htmlUrl="https://github.com/prettier/prettier/releases"/>
+      <outline text="Prettier Blog" title="Prettier Blog" type="rss" 
+            xmlUrl="https://prettier.io/blog/atom.xml" htmlUrl="https://prettier.io/blog"/>
+      <outline text="clipboard.js Release notes" title="clipboard.js Release notes" type="rss" 
+            xmlUrl="https://github.com/zenorocha/clipboard.js/releases.atom" htmlUrl="https://github.com/zenorocha/clipboard.js/releases"/>
+      <outline text="babel Release notes" title="babel Release notes" type="rss" 
+            xmlUrl="https://github.com/babel/babel/releases.atom" htmlUrl="https://github.com/babel/babel/releases"/>
+      <outline text="nw.js Release notes" title="nw.js Release notes" type="rss" 
+            xmlUrl="https://github.com/nwjs/nw.js/releases.atom" htmlUrl="https://github.com/nwjs/nw.js/releases"/>
+      <outline text="pixi.js Release notes" title="pixi.js Release notes" type="rss" 
+            xmlUrl="https://github.com/pixijs/pixi.js/releases.atom" htmlUrl="https://github.com/pixijs/pixi.js/releases"/>
+      <outline text="immutable-js Release notes" title="immutable-js Release notes" type="rss" 
+            xmlUrl="https://github.com/immutable-js/immutable-js/releases.atom" htmlUrl="https://github.com/immutable-js/immutable-js/releases"/>
+      <outline text="koa Release notes" title="koa Release notes" type="rss" 
+            xmlUrl="https://github.com/koajs/koa/releases.atom" htmlUrl="https://github.com/koajs/koa/releases"/>
+      <outline text="Poedit news" title="Poedit news" type="rss" 
+            xmlUrl="https://poedit.net/rss.xml"/>
+      <outline text="bootstrap-vue Release notes" title="bootstrap-vue Release notes" type="rss" 
+            xmlUrl="https://github.com/bootstrap-vue/bootstrap-vue/releases.atom" htmlUrl="https://github.com/bootstrap-vue/bootstrap-vue/releases"/>
+      <outline text="express Release notes" title="express Release notes" type="rss" 
+            xmlUrl="https://github.com/expressjs/express/releases.atom" htmlUrl="https://github.com/expressjs/express/releases"/>
+      <outline text="lodash Release notes" title="lodash Release notes" type="rss" 
+            xmlUrl="https://github.com/lodash/lodash/releases.atom" htmlUrl="https://github.com/lodash/lodash/releases"/>
+      <outline text="redis Release notes" title="redis Release notes" type="rss" 
+            xmlUrl="https://github.com/redis/redis/releases.atom" htmlUrl="https://github.com/redis/redis/releases"/>
+      <outline text="graphql-js Release notes" title="graphql-js Release notes" type="rss" 
+            xmlUrl="https://github.com/graphql/graphql-js/releases.atom" htmlUrl="https://github.com/graphql/graphql-js/releases"/>
+      <outline text="npm Release notes" title="npm Release notes" type="rss" 
+            xmlUrl="https://github.com/npm/cli/releases.atom" htmlUrl="https://github.com/npm/cli/releases"/>
+      <outline text="wp-graphql Release notes" title="wp-graphql Release notes" type="rss" 
+            xmlUrl="https://github.com/wp-graphql/wp-graphql/releases.atom" htmlUrl="https://github.com/wp-graphql/wp-graphql/releases"/>
+      <outline text="html2canvas Release notes" title="html2canvas Release notes" type="rss" 
+            xmlUrl="https://github.com/niklasvh/html2canvas/releases.atom" htmlUrl="https://github.com/niklasvh/html2canvas/releases"/>
+      <outline text="cropperjs Release Notes" title="cropperjs Release Notes" type="rss" 
+            xmlUrl="https://github.com/fengyuanchen/cropperjs/releases.atom" htmlUrl="https://github.com/fengyuanchen/cropperjs/releases"/>
+      <outline text="konva Release Notes" title="konva Release Notes" type="rss" 
+            xmlUrl="https://github.com/konvajs/konva/releases.atom" htmlUrl="https://github.com/konvajs/konva/releases"/>
+      <outline text="smartcrop.js Release Notes" title="smartcrop.js Release Notes" type="rss" 
+            xmlUrl="https://github.com/jwagner/smartcrop.js/releases.atom" htmlUrl="https://github.com/jwagner/smartcrop.js/releases"/>
+      <outline text="PhotoSwipe Release Notes" title="PhotoSwipe Release Notes" type="rss" 
+            xmlUrl="https://github.com/dimsemenov/PhotoSwipe/releases.atom" htmlUrl="https://github.com/dimsemenov/PhotoSwipe/releases"/>
+      <outline text="swiper Release Notes" title="swiper Release Notes" type="rss" 
+            xmlUrl="https://github.com/nolimits4web/swiper/releases.atom" htmlUrl="https://github.com/nolimits4web/swiper/releases"/>
+      <outline text="nodemon Release Notes" title="nodemon Release Notes" type="rss" 
+            xmlUrl="https://github.com/remy/nodemon/releases.atom" htmlUrl="https://github.com/remy/nodemon/releases"/>
+      <outline text="Pikaday Release Notes" title="Pikaday Release Notes" type="rss" 
+            xmlUrl="https://github.com/Pikaday/Pikaday/releases.atom" htmlUrl="https://github.com/Pikaday/Pikaday/releases"/>
+      <outline text="GSAP Release Notes" title="GSAP Release Notes" type="rss" 
+            xmlUrl="https://github.com/greensock/GSAP/releases.atom" htmlUrl="https://github.com/greensock/GSAP/releases"/>
+      <outline text="isotope Release Notes" title="isotope Release Notes" type="rss" 
+            xmlUrl="https://github.com/metafizzy/isotope/releases.atom" htmlUrl="https://github.com/metafizzy/isotope/releases"/>
+      <outline text="masonry Release Notes" title="masonry Release Notes" type="rss" 
+            xmlUrl="https://github.com/desandro/masonry/releases.atom" htmlUrl="https://github.com/desandro/masonry/releases"/>
+      <outline text="apexcharts.js Release Notes" title="apexcharts.js Release Notes" type="rss" 
+            xmlUrl="https://github.com/apexcharts/apexcharts.js/releases.atom" htmlUrl="https://github.com/apexcharts/apexcharts.js/releases"/>
+      <outline text="tinymce Release Notes" title="tinymce Release Notes" type="rss" 
+            xmlUrl="https://github.com/tinymce/tinymce/releases.atom" htmlUrl="https://github.com/tinymce/tinymce/releases"/>
+      <outline text="CodeMirror Release Notes" title="CodeMirror Release Notes" type="rss" 
+            xmlUrl="https://github.com/codemirror/CodeMirror/releases.atom" htmlUrl="https://github.com/codemirror/CodeMirror/releases"/>
+      <outline text="react-spring Release Notes" title="react-spring Release Notes" type="rss" 
+            xmlUrl="https://github.com/react-spring/react-spring/releases.atom" htmlUrl="https://github.com/react-spring/react-spring/releases"/>
+      <outline text="readme-md-generator Release Notes" title="readme-md-generator Release Notes" type="rss" 
+            xmlUrl="https://github.com/kefranabg/readme-md-generator/releases.atom" htmlUrl="https://github.com/kefranabg/readme-md-generator/releases"/>
+      <outline text="node-canvas Release Notes" title="node-canvas Release Notes" type="rss" 
+            xmlUrl="https://github.com/Automattic/node-canvas/releases.atom" htmlUrl="https://github.com/Automattic/node-canvas/releases"/>
+</body>
+</opml>
